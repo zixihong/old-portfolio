@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&display=swap');
 
+:root {
+    --gradient-start: #bbb5f8;
+    --gradient-end: #f7adf2;
+}
+
+
+
 html, body {
     line-height: 1.5;
     font-family: 'Poppins', sans-serif;
@@ -10,6 +17,7 @@ html, body {
     min-height: 100%;
     display: flex;
     flex-direction: column;
+    background: linear-gradient(100deg, var(--gradient-start) 40%, var(--gradient-end) 60%)
 }
 
 section {
@@ -52,6 +60,12 @@ section {
     object-fit: cover;
 }
 
+#introduction img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.3);
+}
+
+
 #projects {
   font-size: 2rem;
   margin-top: -5%;
@@ -69,8 +83,8 @@ section {
 footer {
     text-align: center;
     padding: 20px;
-    background-color: #facdad;
-    color: #333;
+    background-color: #f2caf7;
+    color: #000000;
     position: relative;
     width: 100%;
     box-sizing: border-box;

@@ -19,7 +19,8 @@
   
   .grid-item:hover {
     transform: scale(1.075);
-    border-color: orange; 
+    border-color: lime;
+     
   }
   
   .overlay {

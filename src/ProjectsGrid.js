@@ -98,7 +98,7 @@ const projects = [
   <img src = "/desc/comcaimodel.png" alt = "Presidential Candidates Emotions" width="500" height="500"/>
   </div>
   <p>
-    <b>OpenCV Facial Emotion Recognition:</b> So far, I have developed an emotion recognizer that analyzes facial expressions to determine emotional states for the presidential candidates using clips from the most recent presidential debate. Using pre-trained models from OpenCV, I was able to recognize and classify emotions such as happiness, anger, surprise, and more.
+    <b>OpenCV Facial Emotion Recognition:</b> So far, I have developed an emotion recognizer that analyzes facial expressions to determine emotional states for the presidential candidates using clips from the most recent presidential debate. Using pre-trained models from OpenCV, I was able to recognize and classify emotions such as happiness, anger, surprise, and more.<br/><br/>
   </p>
   </> },
   { id: 7, title: <><span style={{color:'orange'}}>Atlas Land Intiative</span></>, bgImage: '/icons/ATLILOGO.png', description: 
@@ -151,7 +151,5 @@ function ProjectsGrid() {
     </div>
   );
 }
-
-
 
 export default ProjectsGrid;
