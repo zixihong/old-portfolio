@@ -12,7 +12,7 @@ function App() {
           <img src = "IMG_1149 (1).jpg" alt = "Bryan Hong" width="400" height="400"/>
           <div className="heading"><h1><TypingText/></h1><p>I am currently a student at the 
             <span style={{color: 'blue'}}> Univeristy of California - Santa Barbara </span>
-            studying CS and DS. I've worked on projects and conducted research over a variety of different subjects including urban planning, bioinformatics, and public health, but the one intersection between all of these is my passion for <b>Machine and Deep Learning, Computer Vision, and Data Analysis. </b>Check out some of my personal and research projects below!</p></div>
+            studying CS and DS. I've worked on projects and conducted research over a variety of different subjects including urban planning, bioinformatics, and public health, but the one intersection between them all is my passion for <b>Machine and Deep Learning, Computer Vision, and Data Analysis. </b> I value curiosity, creativity, and a strong commitment to facts and originality. Check out some of my personal and research projects below!</p></div>
           </div>
       </section>
      

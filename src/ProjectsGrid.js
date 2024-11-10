@@ -17,6 +17,21 @@ const projects = [
   <b>Data Visualization:</b> I created visualizations of our spectral data, showing how the absorption curves changed with different concentrations of target DNA. This helped in interpreting and presenting our results effectively.<br/><br/>
   <b>Signal Processing:</b> Using Fourier Analysis and other signal processing techniques, I cleaned up our spectral data, reducing noise and improving the accuracy of our measurements.<br/><br/>
   </p>
+  <div style={{ display: 'flex', justifyContent: 'space-evenly'  }}>
+  <embed 
+    src="/pdfs/Research - Smartphone-based Plasmonic Sensing/Smartphone-based Plasmonic Sensing for Respiratory Diseases - Poster.pptx.pdf" 
+    width="500" 
+    height="600" 
+    type="application/pdf"
+  />
+  <embed 
+    src="/pdfs/Research - Smartphone-based Plasmonic Sensing/Smartphone-based Plasmonic Sensing for Respiratory Viruses - Slides.pptx (1).pdf" 
+    width="500" 
+    height="600" 
+    type="application/pdf"
+  />
+</div>
+<br/><br /><br/><br />
   </> },
   { id: 2, title: <><span style={{color: 'orange'}}>MATLAB Plasmonic Nanoparticle Virion Quantification System PT. 2</span></>, bgImage: '/icons/MATLAB1.png', description: 
   <>
@@ -35,6 +50,27 @@ const projects = [
   <b>Signal Processing:</b> I implemented real-time signal processing to analyze the dips in millivolt values (mV) on the oscilloscope, determining virion concentration by counting "Fon" and "Foff" signals.<br/><br/>
   <b>Amplitude and AUC Analysis</b> I analyzed the amplitude and area under the curve (AUC) for nanobubble signals, which differentiated between aggregated and unaggregated AuNPs. <br/><br/>
   </p>
+  <div style={{ display: 'flex', justifyContent: 'space-evenly'  }}>
+  <embed 
+    src="/pdfs/Project - PT 1. MATLAB Virion Quantification/MATLAB Plasmonic Nanoparticle Virion Counting and Interpretation System - Paper.pdf" 
+    width="500" 
+    height="600" 
+    type="application/pdf"
+  />
+  <embed 
+    src="/pdfs/Project - PT 1. MATLAB Virion Quantification/MATLAB Single Virion Quantification System - Poster.pdf" 
+    width="500" 
+    height="500" 
+    type="application/pdf"
+  />
+  <embed 
+    src="/pdfs/Project - PT 1. MATLAB Virion Quantification/MATLAB Virus Severity and Prognosis Evaluation - Slides.pdf" 
+    width="500" 
+    height="600" 
+    type="application/pdf"
+  />
+</div>
+<br/><br /><br/><br />
   </> },
   { id: 3, title: <><span style={{color:'orange'}}>Bayesian Ridge Regression AI Modeling in Virus Severity Prediction PT. 3</span></>, bgImage: '/icons/BAYE2.png', description: 
   <>
@@ -58,11 +94,20 @@ const projects = [
   <b>Bayesian Ridge Regression:</b> I chose to use Bayesian Ridge Regression models because it is ideal for modeling non-linear relationships like the ones present between weight, age, and virion count in this project. By using priors and regularization, I was able to avoid overfitting while remaining flexible to new data.<br/><br/>
   <b>Hyperparameter Tuning:</b> I used a Gamma distribution to model the priors for the hyperparameters α (alpha) and λ (lambda), ensuring optimal regularization and precision in the final model. This was critical for achieving a balance between bias and variance, enabling the model to generalize well on unseen data.<br/><br/>
   </p>
+  <div style={{ display: 'flex', justifyContent: 'space-evenly'  }}>
+  <embed 
+    src="/pdfs/Project - PT 2. Bayesian Ridge Regression AI Modeling/Bayesian Ridge Regression AI Modeling in Virus Severity Prediction - Paper.pdf" 
+    width="500" 
+    height="600" 
+    type="application/pdf"
+  />
+</div>
+<br/><br /><br/><br />
   </> },
   { id: 4, title: <><span style={{color: 'orange'}}>Pubnect</span></>, bgImage: '/icons/Pubnect.png', description: 
   <>
   <p>
-  Launched as a startup, I co-founded <a href='https://pubnect.com/'>Pubnect</a> with a friend as an online platform that connects researchers with the broader academic community by hosting virtual conferences and seminars that are accessible to all.<br/><br/> 
+  Launched as a startup, I co-founded <a href='https://pubnect.com/' target  = '_blank' rel="noopener noreferrer">Pubnect</a> with a cofounder as an online platform that connects researchers with the broader academic community by hosting virtual conferences and seminars that are accessible to all.<br/><br/> 
   Pubnect enables researchers, authors, and advocates to share their work with global audiences, fostering collaboration, increasing visibility, and discovering new publication and funding opportunities. Pubnect also provides an accessible platform for students, professionals, grant providers, and policymakers to stay connected with the latest research trends and innovations from around the world.
   </p>
   <div className='image-container'>
@@ -73,21 +118,31 @@ const projects = [
     <b>Automatic SMTP Email Sender:</b> Using Mailgun API, I designed an automatic email sender using Python and SMTP that sends personalized invitation emails for Pubnect's conferences and seminars to selected presenters. The script loads up recipient details from a CSV file and then generating unique registration codes for each email to verify each researcher's identity. 
     The script formats and sends emails by looping through the CSV file with the contact information of all the selected presenters, and it integrates CSV handling, HTTP requests, and personalized content generation to automate the emailing process efficiently.<br/><br/>
     <b>CSV Duplicate Remover</b> Using Python and Pandas, I created a script that compares two CSV files and removes any duplicates based on matching title and email values. This tool simplifies managing and deduplicating data across multiple CSV files, making it easier to maintain clean datasets.<br/><br/>
+    <b>CURRENTLY BUILDING:</b> I've been working on developing an AI-powered research networking platform designed to connect researchers with grant funding, conference opportunities, publication avenues, and potential collaborators. My goal is to create a tool that addresses the common challenges faced by academics today, making the research process more accessible and efficient. <br /><br />
   </p>
   </> },
   { id: 5, title: <><span style={{color:'orange'}}>National Zoning Atlas</span></>, bgImage: '/icons/NATZA.png', description: 
   <>
   <p>
-    I worked with researchers across 5 different branches of the <a href='https://www.zoningatlas.org/'>National Zoning Atlas</a> (Texas, California, Connecticut, Indiana, and Rhode Island) to create an interactive atlas/map that displays zoning information for over 30,000 zoning ordinances across the country.<br/><br/>
+    I worked with researchers across 5 different branches of the <a href='https://www.zoningatlas.org/' target  = '_blank' rel="noopener noreferrer">National Zoning Atlas</a> (Texas, California, Connecticut, Indiana, and Rhode Island) to create an interactive atlas/map that displays zoning information for over 30,000 zoning ordinances across the country.<br/><br/>
   </p>
   <div className='image-container'>
   <img src = "/desc/NZAMAP.png" alt = "NZA Map" width="500" height="400"/>
   <img src = '/desc/NZAzoomed.png' alt = 'NZA Map Zoomed In' width='500' height='500'/>
   </div>
   <p>
-  <b>Interactive Zoning Map System:</b> Along with a team, I developed a high-performance map that displays all the zoning data for the zoning ordinances using JavaScript, C#, and ArcGIS.<br/><br/>
-  <b>Geospatial Analysis:</b> I analyzed zoning data from over 12,000 cities using R, SQL, and ArcGis. <br/><br/>
+  <b>Interactive Zoning Map System:</b> Along with a team, I helped develop a high-performance map that displays all the zoning data for the zoning ordinances using JavaScript, Python, AWS, and ArcGIS.<br/><br/>
+  <b>Geospatial Analysis:</b> I analyzed zoning data from over 12,000 cities using R and ArcGis. <br/><br/>
   </p>
+  <div style={{ display: 'flex', justifyContent: 'space-evenly'  }}>
+  <embed 
+    src="/pdfs/Research - National Zoning Atlas/Texas Zoning Atlas_ERG.pdf" 
+    width="500" 
+    height="600" 
+    type="application/pdf"
+  />
+</div>
+<br/><br /><br/><br />
   </> },
   { id: 6, title: <><span style={{color:'orange'}}>SnDBot</span></>, bgImage: '/icons/comcaimodel.png', description: 
   <>
