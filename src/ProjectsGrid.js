@@ -111,12 +111,13 @@ const projects = [
   Pubnect enables researchers, authors, and advocates to share their work with global audiences, fostering collaboration, increasing visibility, and discovering new publication and funding opportunities. Pubnect also provides an accessible platform for students, professionals, grant providers, and policymakers to stay connected with the latest research trends and innovations from around the world.
   </p>
   <div className='image-container'>
-  <img src = "/desc/newemailsender.png" alt = "New Email Sender Using API" width="475" height="500"/>
-  <img src = '/desc/emailsender.png' alt = 'Original Layout for Email Sender' width='500' height='500'/>
+  <img src = '/desc/emailsender.png' alt = 'Original Layout for Email Sender' width='450' height='500'/>
+  <img src = '/desc/scraper.png' alt = 'Web Scraper' width='500' height='500'/>
   </div>
   <p>
     <b>Automatic SMTP Email Sender:</b> Using Mailgun API, I designed an automatic email sender using Python and SMTP that sends personalized invitation emails for Pubnect's conferences and seminars to selected presenters. The script loads up recipient details from a CSV file and then generating unique registration codes for each email to verify each researcher's identity. 
     The script formats and sends emails by looping through the CSV file with the contact information of all the selected presenters, and it integrates CSV handling, HTTP requests, and personalized content generation to automate the emailing process efficiently.<br/><br/>
+    <b>Web Scraper:</b> I developed a web scraper script using Python and BeautifulSoup to extract conference and seminar details from various academic websites. The scraper collects information such as emails, event titles, dates, locations, and registration links, which are then used to populate Pubnect's event calendar. This tool streamlines the process of finding and listing academic events, making it easier for researchers to discover new opportunities and connect with the academic community.<br/><br/>
     <b>CSV Duplicate Remover</b> Using Python and Pandas, I created a script that compares two CSV files and removes any duplicates based on matching title and email values. This tool simplifies managing and deduplicating data across multiple CSV files, making it easier to maintain clean datasets.<br/><br/>
     <b>CURRENTLY BUILDING:</b> I've been working on developing an AI-powered research networking platform designed to connect researchers with grant funding, conference opportunities, publication avenues, and potential collaborators. My goal is to create a tool that addresses the common challenges faced by academics today, making the research process more accessible and efficient. <br /><br />
   </p>
@@ -144,16 +145,18 @@ const projects = [
 </div>
 <br/><br /><br/><br />
   </> },
-  { id: 6, title: <><span style={{color:'orange'}}>SnDBot</span></>, bgImage: '/icons/comcaimodel.png', description: 
+  { id: 6, title: <><span style={{color:'orange'}}>SnDBot</span></>, bgImage: '/icons/transcript_emotions.png', description: 
   <>
   <p>
   <h1>CURRENTLY BUILDING:</h1> I'm in the process of developing a speech and debate bot that uses AI to transcribe debates and analyze various aspects of speech. It will identify filler words, track stutters and speech flow, and extract data on pitch, vocal variation, and emotional tone. Additionally, the bot will analyze facial expressions and body language, including gestures and posture, providing comprehensive feedback to improve public speaking and debate performance.<br/><br/>
   </p>
   <div className='image-container'>
   <img src = "/desc/comcaimodel.png" alt = "Presidential Candidates Emotions" width="500" height="500"/>
+  <img src = '/desc/transcript_emotions.png' alt = 'Facial Emotion Recognition' width='500' height='600' />
   </div>
   <p>
-    <b>OpenCV Facial Emotion Recognition:</b> So far, I have developed an emotion recognizer that analyzes facial expressions to determine emotional states for the presidential candidates using clips from the most recent presidential debate. Using pre-trained models from OpenCV, I was able to recognize and classify emotions such as happiness, anger, surprise, and more.<br/><br/>
+    <b>OpenCV Facial Emotion Recognition:</b> So far, I have developed an emotion recognizer that analyzes facial expressions to determine emotional states for the presidential candidates using clips from the most recent presidential debate. Using pre-trained cascade models from OpenCV, I was able to recognize and classify emotions such as happiness, anger, surprise, and more.<br/><br/>
+    <b>TensorFlow Speech-to-Text Transcription:</b> I have also implemented a speech-to-text transcription system that converts audio files into text. This system will be used to transcribe debates and speeches, allowing the bot to analyze the content and provide feedback on speech patterns and content.<br/><br/>
   </p>
   </> },
   { id: 7, title: <><span style={{color:'orange'}}>Atlas Land Intiative</span></>, bgImage: '/icons/ATLILOGO.png', description: 
@@ -170,6 +173,11 @@ function ProjectsGrid() {
   const openModal = (id) => setActiveModal(id);
   const closeModal = () => setActiveModal(null);
   const [isModalOpen, setIsModalOpen] = useState(false);
+  const handleModalClick = (e) => {
+    if (e.target.className.includes('modal active')) {
+      setActiveModal(null);
+    }
+  };
 
   return (
     <div>
@@ -189,10 +197,13 @@ function ProjectsGrid() {
       </div>
 
       {projects.map(project => (
-        <div key={project.id} className={`modal ${activeModal === project.id ? 'active' : ''}`}>
+        <div 
+          key={project.id} 
+          className={`modal ${activeModal === project.id ? 'active' : ''}`}
+          onClick={handleModalClick}
+        >
           <div className="modal-content">
-            {}
-            <button className="close" onClick={closeModal}>
+            <button className="close" onClick={() => setActiveModal(null)}>
               &times;
             </button>
             <h2>{project.title}</h2>

@@ -10,9 +10,11 @@ function App() {
       <section id="introduction">
         <div className="container">
           <img src = "IMG_1149 (1).jpg" alt = "Bryan Hong" width="400" height="400"/>
-          <div className="heading"><h1><TypingText/></h1><p>I am currently a student at the 
-            <span style={{color: 'blue'}}> Univeristy of California - Santa Barbara </span>
-            studying CS and DS. I've worked on projects and conducted research over a variety of different subjects including urban planning, bioinformatics, and public health, but the one intersection between them all is my passion for <b>Machine and Deep Learning, Computer Vision, and Data Analysis. </b> I value curiosity, creativity, and a strong commitment to facts and originality. Check out some of my personal and research projects below!</p></div>
+          <div className="heading"><h1><TypingText/></h1><p>I'm a student at  
+            <span style={{color: 'blue'}}><b> UC Santa Barbara </b> </span> studying
+            <span style={{color: 'blue'}}><b> CS + Statistics & Data Science </b></span> with a minor in <span style={{color: 'blue'}}><b> Pure Math. </b></span> My project experience spans diverse fields—including urban planning, bioinformatics, public health, and more—but at the core, each is united by my passion for <b>machine and deep learning, computer vision, & predictive modeling.</b> I value curiosity, creativity, and a commitment to facts and originality, and I'm a problem-solver at heart. Explore some of my personal and research projects below!</p>
+            <p><b>CURRENTLY BUILDING: <span style={{color: 'Purple'}}>Alexandria - your AI reading assistant.</span></b></p></div>
+
           </div>
       </section>
      

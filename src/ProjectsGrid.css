@@ -43,11 +43,11 @@
   }
   
   .grid-item .special-overlay {
-    background: rgba(74, 120, 26, 0.5);
+    background: rgba(74, 120, 206, 0.5);
   }
   
   .grid-item .special-overlay:hover {
-    background: rgba(74, 120, 26, 0.15);
+    background: rgba(74, 120, 206, 0.15);
   }
   
   .overlay h3 {
