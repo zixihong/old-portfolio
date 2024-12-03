@@ -22,10 +22,10 @@ export default function Home() {
           <div className="heading">
             <h1><TypingText/></h1><br />
             <p>
-            I'm a student at <span style={{color: 'blue'}}><b>UC Santa Barbara</b></span>, studying <span style={{color: 'blue'}}><b>CS + Statistics & Data Science</b></span> with a minor in <span style={{color: 'blue'}}><b>Applied Math. </b></span>
-            I'm curious, creative, and value uniqueness and originality. I'm a problem-solver at heart and am especially passionate about <b>Machine and Deep Learning, Computer Vision, and Predictive Modeling. </b>
+            I'm a student at <span style={{color: 'blue'}}><b>UC Santa Barbara</b></span> studying <span style={{color: 'blue'}}><b>CS + Math, </b></span> 
+            and I love working on projects involving <b>Machine and Deep Learning, Computer Vision, and Predictive Modeling. </b> At my core, I value curiosity, creativity, uniqueness, and originality, and I'm a problem-solver at heart who believes that they can <b>Change The World. </b>
             Explore some of my personal and research projects below! Or check out my {' '}
-            <Link href="/pure-simple-html" style={{color: 'yellow', textDecoration: 'underline', fontWeight: 'bold'}}> Blog. </Link>
+            <Link href="/pure-simple-html" style={{color: 'yellow', textDecoration: 'underline', fontWeight: 'bold'}}> Blog :) </Link>
             </p><br />
             <p>
               <b>CURRENTLY BUILDING:{' '}
