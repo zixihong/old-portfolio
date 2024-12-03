@@ -2,6 +2,7 @@
 import React from 'react';
 import TypingText from '../components/TypingText/TypingText';
 import ProjectsGrid from '../components/ProjectsGrid/ProjectsGrid';
+import Link from 'next/link';
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"></meta>
 
@@ -21,16 +22,10 @@ export default function Home() {
           <div className="heading">
             <h1><TypingText/></h1><br />
             <p>
-              I'm a student at{' '}
-              <span style={{color: 'blue'}}><b>UC Santa Barbara </b></span> studying
-              <span style={{color: 'blue'}}><b> CS + Statistics & Data Science </b></span> 
-              with a minor in <span style={{color: 'blue'}}><b>Pure Math.</b></span>{' '}
-              My project experience spans diverse fields—including urban planning, bioinformatics, 
-              public health, and more—but at the core, each is united by my passion for{' '}
-              <b>Machine and Deep Learning, Computer Vision, & Predictive Modeling.</b>{' '}
-              I value curiosity, creativity, and a commitment to facts and originality, 
-              and I'm a problem-solver at heart. Explore some of my personal and research 
-              projects below!
+            I'm a student at <span style={{color: 'blue'}}><b>UC Santa Barbara</b></span>, studying <span style={{color: 'blue'}}><b>CS + Statistics & Data Science</b></span> with a minor in <span style={{color: 'blue'}}><b>Applied Math. </b></span>
+            I'm curious, creative, and value uniqueness and originality. I'm a problem-solver at heart and am especially passionate about <b>Machine and Deep Learning, Computer Vision, and Predictive Modeling. </b>
+            Explore some of my personal and research projects below! Or check out my {' '}
+            <Link href="/pure-simple-html" style={{color: 'yellow', textDecoration: 'underline', fontWeight: 'bold'}}> Blog. </Link>
             </p><br />
             <p>
               <b>CURRENTLY BUILDING:{' '}
@@ -38,7 +33,7 @@ export default function Home() {
                   Alexandria - your AI reading assistant.
                 </span>
               </b>
-            </p><br /><br />
+            </p><br />
           </div>
         </div>
       </section>
