@@ -4,6 +4,20 @@ import Link from 'next/link';
 import { useParams } from 'next/navigation';
 
 const blogPosts = {
+  'uniqueness': {
+    title: "uniqueness. and why u shouldn't care what others think.",
+    date: "03/2024",
+    content: `why care so much about what others think? i think there's a certain beauty to doing stuff your own way. there's no kanye if he was copying another "kanye"; there's no picasso if he was afraid of how the world would think of "picasso".
+
+i'm not some great visionary; i haven't made anything yet. but i will always pride myself on my ability to think differently. for me, joy lies in doing something that no one else is doing -- seeing something that no one else is seeing. there are TOO many people who only does what society wants them to do and to see what society wants them to see. 
+
+having this ability to see is a really defining characteristic of all visionaries. what does it mean to be a visionary? is to see far? is to see wide? or is it to see something that's hidden to everyone else? humans have a tendency to assimilate to what's considered "normal" for the society. what is "normal"? as a society, we're told that "normal" is just what everyone else is doing; there's no predefined term for what being "normal" is. and more importantly, there's no reward for being "normal".
+
+people def thought i was a little weird in high school tbh. not in a like a "i don't want to be your friend cause ur a weirdo" type of way, but more like a "hmmmmmmm, that's interesting" type of way. i'm honestly so fortunate to have grown up around people who really supported my thinking; my friends always considered what i had to say even if it was a little different, and i think they recognized my value as a someone who could always provide an additional opinion or a secondary voice to every idea they had. being in such a supportive enviornment really taught me that being unique and deviating from the norm should be celebrated; not shamed. 
+
+priding yourself in being unique is what allows you to grow to fit YOUR mold, not society's mold for you. and connecting it back to the idea of visionaries and innovators, these people are what they are because they PRIDED themselves on their ability to see something that no one else saw; to grasp onto an idea when no one else even opened their palm. 
+ `
+  },
   'perception': {
     title: "perception. and why u should care what others think.",
     date: "03/2024",
@@ -19,13 +33,71 @@ and honestly, at the end of the day, it's up to you to decide if it's worth the 
 
 and it's this balance of being yourself and playing into perceptions that i think everyone should learn to master. being able to subtly switch into a specific archetype to be perceived a specific way by someone can be super useful to get what you want (playing into the perception of a misunderstood genius who drives around Nissan even though he is a millionaire is what helped SBF raise $2 billion in investments for FTX), but it takes a lot of social intelligence, self awareness, research, and practice. it's why celebrities pay millions for pr teams every year. first you have to research and identify what archetype to fit into based on the target person (your girlfriend's dad might like someone who is very confident), and then you have to find out a subtle way to display all of those characteristics in order to be perceived that way (study up on his favorite sports teams so that you have something to talk about at dinner --> displays that you are talkative and isn't intimidated by his presence, etc.) at the end of the day, it's all a game. knowing people, reading people, manipulating people (again, not advocating for this), everything is just a game of people. 
 
-writing this blog post feels seriously ingenuine because of the subject matter at hand, and if you really read all the way down here, i can assure you that this is not a ploy or anything. please give me feedback. goodbye.`
+writing this blog post feels seriously ingenuine because of the subject matter at hand, and if you really read all the way down here, i can assure you that this is not a ploy or anything.`
   },
-  'uniqueness': {
-    title: "uniqueness. and why u shouldn't care what others think.",
-    date: "03/2024",
-    content: `a direct juxtaposition to my previous post.`
-  }
+  'regret': {
+    title: "regret: how much we want it > how much effort we put in.",
+    date: "04/2024",
+    content: `regret builds character. regret builds character. 
+
+i just received my college results, and i can't say that i am particularly ecstatic about my choices of colleges next fall (i do have some good ones + waitlists so we'll see). but neither am i particularly surprised. 
+
+i was a slacker back in sophomore year; no clue what the heck i was doing back in zhong's calculus class. and even till this day, it's been my biggest regret that i didn't put in just a little more effort to get an A. but u can't change the past, and neither do i want to.
+
+see, after zhong's calculus class, that feeling of regret made me promise myself to never slack off in a class again; to never procrastinate on hw, to never skip a textbook reading. this feeling of regret taught me that life moves on, and i had a choice to either sit and pity about my gpa or work my ass off trying to fix it. and it's this feeling of regret that i believe builds the most character in people.
+
+we regret because we care. we wanted those results so badly, and yet, our effort simply didn't match up. this inequivalence is what causes us to feel regret: regret: how much we want it > how much effort we put in. 
+
+i can't go back and change the past so that i can work harder in zhong's class and get into all the dream colleges i wanted to get into, but neither do i want to. i already know that this feeling of regret is going to change me so much, and in the long run, i WILL become a better person as a result of this no matter where i end up going to college.`
+  },
+  'cowboyhong':{
+    title: "a psychoanalysis of cowboyhongs, alter egos, and graduations.",
+    date: "05/2024",
+    content: ``
+  },
+  'summer': {
+    title: "summer's end.",
+    date: "07/2024",
+    content: ``
+  },
+  'solitude': {
+    title: "solitude and growth.",
+    date: "09/2024",
+    content: ``
+  },
+  'delusion':{
+    title: "delusion as a visionary.",
+      date: "10/2024",
+      content: ``
+  },
+  'yes': {
+    title: "say yes because the fear of missing out is too great.",
+    date: "10/2024",
+    content: `i wouldn't say that i have "fomo" (fear of missing out), but i think i'm very optimistic about the future. i say yes to things a lot because i always believe that by participating in something or by trying something new, something good is going to happen. even when this isn't the case for a lot of different things, this mindset has led me to unexpected adventures and connections that i never would have experienced otherwise.
+
+some might call this naive or unrealistic, but i've found that maintaining this sense of possibility keeps life interesting. sure, not every new experience turns out to be life-changing or even particularly memorable, but the times when something magical does happen make all the other attempts worth it. 
+
+i wanted to connect this idea to entrepreneurship tbh. i have many great ideas, and there's nothing i love more than to just hacking and playing around with each idea. im not physically "saying yes" or joining anything, but just this representation of WANTING to try everything out because you're scared that you'll miss out on something cool is something that really makes me, me.
+
+i'm not entirely sure if this is a good trait or not; i think curiosity definitely is, but wanting to try everything does take quite a bit of time. don't get me wrong, i love coding, but this does get tiring at times when things always lead to dead ends. and the worst part is that, even when i know this project will lead to a dead end, i still follow the little glimpse of light at the end of the tunnel too eagerly.
+
+i'm not really sure where i wanted to go with this blog tbh, but i think it was good getting this thought out of my brain. thank you guys for listening.`
+  },
+  'openai': {
+    title: "open...ai?",
+    date: "10/2024",
+    content: ``
+  },
+  'yc': {
+    title: "yc.",
+    date: "10/2024",
+    content: ``
+  },
+  'love': {
+    title: "to love is to sacrifice.",
+    date: "11/2024",
+    content: ``
+  },
 };
 
 export default function BlogPost() {

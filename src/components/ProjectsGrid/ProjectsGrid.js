@@ -246,7 +246,7 @@ const projects = [
 
       <div className={styles.imageContainer}>
         <img src="/desc/comcaimodel.png" alt="Presidential Candidates Emotions" width="500" height="500"/>
-        <img src='/desc/transcript_emotions.png' alt='Facial Emotion Recognition' width='500' height='600' />
+        <img src='/icons/transcript_emotions.png' alt='Facial Emotion Recognition' width='500' height='600' />
       </div>
 
       <div className={styles.featuresList}>
@@ -261,7 +261,7 @@ const projects = [
   },
 
   { id: 7, 
-    title: <><span style={{color:'orange'}}><b>Atlas Land Initiative</b></span></>, 
+    title: <><span style={{color:'orange'}}><b>The Atlas Land Intiative (ATLI)</b></span></>, 
     bgImage: '/icons/ATLILOGO.png', 
     description: 
     <>
@@ -270,7 +270,46 @@ const projects = [
       </div>
 
       <div className={styles.descriptionText}>
-        The Atlas Land Initiative (ATLI) is a project I am currently building to help family farmers purchase land by evaluating plot qualities using AI and data analysis. The initiative focuses on developing software that tackles challenges like climate change and farm proximity to markets, empowering farmers to make informed land-buying decisions. It uses a combination of GIS data, soil quality assessments, and environmental factors to evaluate potential land parcels. The analysis focuses on key metrics such as soil fertility, water availability, and proximity to markets, providing farmers with personalized insights into the best land options for their needs.
+        ATLI is a project I am currently building to help family farmers purchase land by evaluating plot qualities using AI and data analysis. The initiative focuses on developing software that tackles challenges like climate change and farm proximity to markets, empowering farmers to make informed land-buying decisions. It uses a combination of GIS data, soil quality assessments, and environmental factors to evaluate potential land parcels. The analysis focuses on key metrics such as soil fertility, water availability, and proximity to markets, providing farmers with personalized insights into the best land options for their needs.
+      </div>
+
+      <div className={styles.imageContainer}>
+        <img src="/desc/sample_utility_score.png" alt="Sample Utility Score" width="500" height="500"/>
+        <img src='/desc/xgboost.png' alt='XGBoost Hyperparemeters Beta 0.1' width="500" height="500"/>
+      </div>
+
+      <div className={styles.featuresList}>
+        <div className={styles.feature}>
+          <b>Random Forest Regression:</b> So far, I have implemented a Random Forest model with customized hyperparameters including n_estimators range of [100-1000], max_depth [4-64], and min_samples_split [2-32], demonstrating understanding of ensemble learning mathematics.
+        </div>
+        <div className={styles.feature}>
+          <b>XGBoost Algorithm:</b> Applied gradient boosting with learning rates [0.01-0.3], max_depth [3-10], and gamma regularization [0-0.4], showcasing knowledge of gradient descent optimization and boosting mathematics.
+        </div>
+        <div className={styles.feature}>
+          <b>Grid Search Optimization:</b> Used GridSearchCV with 5-fold cross-validation to optimize model parameters, showing understanding of hyperparameter optimization mathematics.
+        </div>
+        <div className={styles.feature}>
+          <b>Spatial Join Operations:</b> Implemented complex spatial joins between farm boundaries and soil quality data using GeoPandas, requiring understanding of geometric operations and spatial relationship calculations.
+        </div>
+        <div className={styles.feature}>
+          <b>Geospatial Visualization:</b> Created choropleth maps using Folium with customized color gradients and opacity settings, showing proficiency in geospatial data visualization algorithms.
+        </div>
+        <div className={styles.feature}>
+          <b>Distance Algorithms: </b> Implemented inverse distance weighting for water source proximity calculations within 5-mile radius, demonstrating knowledge of geographic distance algorithms.
+        </div>
+        <div className={styles.feature}>
+          <b>Statistical Normalization: </b> Applied MinMaxScaler and StandardScaler transformations to normalize land suitability scores between 0-1, demonstrating understanding of statistical standardization techniques.
+        </div>
+      </div> 
+
+
+      <div className={styles.pdfContainer}>
+        <embed 
+          src="/pdfs/ATLI/The_Atlas_Land_Initiative__ATLI_.pdf" 
+          width="500" 
+          height="600" 
+          type="application/pdf"
+        />
       </div>
     </> 
   }

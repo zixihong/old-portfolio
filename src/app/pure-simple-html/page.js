@@ -5,29 +5,29 @@ import Link from 'next/link';
 export default function Writing() {
   const blogs = [
     {
-      title: "perception. and why u should care what others think.",
-      date: "03/2024",
-      slug: "perception"
-    },
-    {
       title: "uniqueness. and why u shouldn't care what others think.",
       date: "03/2024",
       slug: "uniqueness"
     },
     {
-      title: "you'll regret it for the rest of your life.",
+      title: "perception. and why u should care what others think.",
+      date: "03/2024",
+      slug: "perception"
+    },
+    {
+      title: "regret: how much we want it > how much effort we put in.",
       date: "04/2024",
       slug: "regret"
     },
     {
-      title: "say yes.",
-      date: "04/2024",
-      slug: "yes"
+      title: "a psychoanalysis of cowboyhongs, alter egos, and graduations.",
+      date: "05/2024",
+      slug: "cowboyhong"
     },
     {
-      title: "a psychoanalysis of cowboyhongs and alter egos.",
+      title: "summer's end.",
       date: "07/2024",
-      slug: "cowboyhong"
+      slug: "summer"
     },
     {
       title: "solitude and growth.",
@@ -38,6 +38,11 @@ export default function Writing() {
       title: "delusion as a visionary.",
       date: "10/2024",
       slug: "delusion"
+    },
+    {
+      title: "say yes because the fear of missing out is too great.",
+      date: "10/2024",
+      slug: "yes"
     },
     {
       title: "open...ai?",
@@ -54,11 +59,6 @@ export default function Writing() {
       date: "11/2024",
       slug: "love"
     },
-    {
-      title: "new years resolution: use more emojis.",
-      date: "11/2024",
-      slug: "emojis"
-    }
   ];
 
   return (

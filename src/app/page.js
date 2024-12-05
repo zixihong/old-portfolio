@@ -47,7 +47,7 @@ export default function Home() {
       <footer>
         <div className="container">
           <p>
-            <b>© 2024 Bryan Hong.</b> Full website source code is available on{' '}
+            <b>© Bryan Hong.</b> Full website source code is available on{' '}
             <a 
               href="https://github.com/zixihong" 
               target="_blank" 
