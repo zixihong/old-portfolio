@@ -68,7 +68,20 @@ i can't go back and change the past so that i can work harder in zhong's class a
   'delusion':{
     title: "delusion as a visionary.",
       date: "10/2024",
-      content: ``
+      content: `visionaries don't see further or wider than anyone else; they just see what others don't. and in a sense, this is what being delusional means.
+
+i'm going to sound like an obnoxious combination between kendrick lamar on 'pride' and sam altman starting a yc interview, but i hope to give you guys a new perspective into the "why" behind challenging society and the fundamental definition of being a visionary.
+
+defined by oxford english dictionary, delusion is the act of holding firm onto an idea despite "incontrovertible evidence to the contrary." but the psychological core of all visionaries that makes them so different than everyone else is their ability to see things that others miss; to grasp onto an idea when no one else even opened their palms. its their ability to always find a case against "incontrovertible evidence" that makes them fundamentally a visionary. see, this entire term of "incontrovertible evidence" just means evidence that is widely accepted and found within society today, but as i've done so many times in my previous blogs, i want to again make the case that the collective whole of society isn't always right. and a certain population of visionaries can always "take down" this collective whole.
+
+now what does any of this even mean? 
+
+visionaries always challenge preestablished notions despite there being "incontrovertible evidence". now keep in mind, visionaries can be anyone--doctors, lawyers, waitresses, government workers--anyone who has the ability to recognize the flaws in our society today. i am not saying that i think i'm a visionary; i haven't done anything yet. but being able to poke holes into society's fabric of right or wrong is such a powerful ability that i think everyone should develop. 
+
+"incontrovertible evidence" is just notions that are widely accepted by society today: taxis are the best way for people to get around without a car, people live in hotels during vacations. but a visionary will always challenge this "incontrovertible evidence" because they look deeper into the "why" behind the things we do, even if it's something that has been preestablished for decades. behind the founders of uber and airbnb, they were just regular people who weren't afraid to challenge the way people transported without cars or the way people lived in temporary establishments, and by challenging these things, they were able to reinvent what we now consider as "incontrovertible evidence". uber and airbnb, are now seen as fundamental in our world today; they tore down preestablished notions to build up new ones. and in a couple of decades or centuries, this cycle will perpetually continue itself when others challenge these ideas. 
+
+society works because there is a certain group of people who who will continually tear down old "inconvertible evidence" and build up new "inconvertible evidence". and this, as pointed out by the oxford dictionary, is just people being delusional.
+`
   },
   'yes': {
     title: "say yes because the fear of missing out is too great.",
