@@ -45,7 +45,7 @@ export default function Writing() {
       slug: "yes"
     },
     {
-      title: "open...ai?",
+      title: "the ethical tangent behind openai.",
       date: "10/2024",
       slug: "openai"
     },
