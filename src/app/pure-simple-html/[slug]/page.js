@@ -101,18 +101,18 @@ i'm not really sure where i wanted to go with this blog tbh, but i think it was 
     date: "10/2024",
     content: `the issue with openai isn't what most people think it is.
 
-back in 2015, altman, then president of yc, sends musk an email stating that he wanted to "test the waters" with a new open artificial intelligence organization just days after musk tweets that he had a bad dream about google's deepmind. from the start, u can clearly tell that altman is a very planned and procedural person; deliberately emailing musk after his experience. now, does this actually mean anything? probably not, but it sets the tone for the type of organization that openai was set out to be. 
+back in 2015, altman, then president of yc, sends musk an email stating that he wanted to "test the waters" with a new open artificial intelligence organization just days after musk tweets that he had a bad dream about google's deepmind. from the start, u can clearly tell that altman is a very planned and procedural person; deliberately emailing musk after his experience. now, does this actually mean anything, probably not, but it sets the tone for the type of organization that openai was set out to be. 
 
 one that is supposed to be a polar opposite to google.
 
 yet, today, altman is the same person trying to abolish openai's nonprofit organization status in replacement for a for-profit status, so on a deeper level, is this move preplanned or is it just a change of heart. honestly, i can see it both ways. after watching countless yc interviews, i've gathered that altman is an incredibly planned person, who, if he wanted to, could def pull this off. on the other hand, no one could've predicted this ai boom, and maybe altman was just in the perfect position to capitalize on this trend. 
 
-but the bigger question is whether or not openai's current plans are "ethical", and how do we even describe what ethical means in such a conjuring time. recently, I've been taking an open-source cs class that discusses the question of ethics in artificial intelligence. one particular message that really stuck around with me was about how ethical are we to just use information online to train these huge llm. 
+but the bigger question is whether or not openai's current plans are "ethical", and how do we even describe what ethical means in such a conjuring time. this quarter, i'm currently taking an open-source cs class that discusses the question of ethics in artificial intelligence. one particular message that really stuck around with me was about on the ethics of using information online to train these huge llms. 
 
 
 if i wrote a novel in 2005 and published the first chapter on my personal website as a preview, and then that chapter got scraped and used to train an ai that can now essentially replicate my writing style - is that ethical? i mean fundamentally, it feels a little wrong though, right? because this was my work, and if this llm were to ever reproduce something in my writing, it would be taking my creative advantage. even if something is technically accessible on the internet, there's a meaningful difference between content being findable and it being ethical to use in training data. and this is currently the line that openai sits on.
 
-because we can all agree that openai is NOT open (even if they try so hard to say they are), but is it ethical for them to take all this open-source data with no regards to train their llms, and then try to sell off this llm to consumers? that's the real ethical question behind these gpts.`
+because we can all agree that openai is NOT open (even if they try so hard to say they are), but is it ethical for them to take all this data from various online sources to train their llms, and then try to sell off this llm to consumers? that's the real ethical question behind these gpts.`
   },
   'yc': {
     title: "yc.",
