@@ -101,7 +101,7 @@ i'm not really sure where i wanted to go with this blog tbh, but i think it was 
     date: "10/2024",
     content: `the issue with openai isn't what most people think it is.
 
-back in 2015, altman, then president of yc, sends musk an email stating that he wanted to "test the waters" with a new open artificial intelligence organization just days after musk tweets that he had a bad dream about google's deepmind. from the start, u can clearly tell that altman is a very planned and procedural person; deliberately emailing musk after his experience. now, does this actually mean anything, probably not, but it sets the tone for the type of organization that openai was set out to be. 
+back in 2015, altman, then president of yc, sends musk an email stating that he wanted to "test the waters" with a new open artificial intelligence organization just days after musk tweets that he had a bad dream about google's deepmind. from the start, u can clearly tell that altman is a very planned and procedural person; deliberately emailing musk after his experience. now, does this actually mean anything? probably not, but it sets the tone for the type of organization that openai was set out to be. 
 
 one that is supposed to be a polar opposite to google.
 
