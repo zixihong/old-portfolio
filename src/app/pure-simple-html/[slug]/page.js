@@ -58,12 +58,28 @@ i can't go back and change the past so that i can work harder in zhong's class a
   'summer': {
     title: "summer's end.",
     date: "07/2024",
-    content: ``
+    content: `this was probably the best summer of my life; i got to spend so much time with all of my friends and family before college probably one last time before the abyss of adulthood eventually swallows us all. 
+
+here are the lessons i learned from this summer:
+
+1. communication is so important for friendship. it's more than just talking; it's understanding.
+
+2. our actions are a reflection of our thoughts. the words we say, the things we do, are all deeply reflective of, to some level, our fundamental thinking. this fundamental thinking is unique to us all, and no matter how hard we try to deny it or push it away. it always appears in the form of our actions.
+
+3. cherish the moment. i think i spent so much time this summer, esp the end, worrying about the last time i'll see my friends again before they leave for college or wtv, and i felt like towards the end, i was always counting down days before they left. i was so worried about them leaving that i sometimes forgot to enjoy the time that we did spend together.`
   },
   'solitude': {
     title: "solitude and growth.",
     date: "09/2024",
-    content: ``
+    content: `being on the quarter system means that i'm alone while all my friends are gone and enjoying college. it's kind of crazy to me that most of them have already been in college for an entire month now. and in this solitude, I've really learned to enjoy my own company.
+
+this is complete juxtaposition from summer when i was spending every second with friends, and now, when everyone's gone, it's made me realize that i kind of forgot to focus on ME for the last 3 months. thankfully, i think this last month has really made up for it.
+
+I've been working like crazy recently; probably coding for at least 9 hours (?) a day. and through this solitude and work, I've realized that growth only happens during times of self reflection and solitude. sure, being around friends is fulfilling in a lot of senses, but true growth happens when you take time to just think about yourself. contextualize yourself within your environment and within your community, nd really see yourself grow and expaond to fit into it. 
+
+for me at least, this contextualizing only occurs when i'm alone. now, i'm def not saying that my friends are a distraction, but i think being alone really brings out a different, and dare i say, better side of you. you're not looking to impress anyone; everything that you are doing is strictly for you. and when you direct this much focus to yourself, growth naturally follows along. the only plants that grow are the ones that you water. 
+
+so really, it's a balance between watering the relationships with your friends and watering the plant of your own personal growth. and finding this balance is what makes us, us.`
   },
   'delusion':{
     title: "delusion as a visionary.",
@@ -115,9 +131,24 @@ if i wrote a novel in 2005 and published the first chapter on my personal websit
 because we can all agree that openai is NOT open (even if they try so hard to say they are), but is it ethical for them to take all this data from various online sources to train their llms, and then try to sell off this llm to consumers? that's the real ethical question behind these gpts.`
   },
   'yc': {
-    title: "yc.",
+    title: "yc as a reflection.",
     date: "10/2024",
-    content: ``
+    content: `the y.
+
+no, not the ymca -- the y combinator. 
+
+from brian chesky to brian armstrong (and, maybe one day, bryan hong), the y has been synonymous to startups, silicon valley, and entrepreneurship.
+
+and this is what i wanted to talk about in this blog today. like many people, it's been my dream for quite a while to launch my own startup and disrupt and revolutionize an industry; unlike others, my main motivation isn't money. entrepreneurship to me is a form of creation; a creative and artistic value to society. 
+
+i was never good at art; i had a couple years where i was semi-decent at the violin but nothing too special. which is strange, considering that one of my biggest strengths is my creativity. and ultimately, this is what entrepreneurship is for me; a creative outlet for me to solve problems. many people ask me if i enjoy coding, and the truth is, not enough for how much i code. and this is what's so surprising for people. i can code for 8, 9 hours a day without a break, but i do it not because i love communicating with my laptop, but rather, because coding is just another tool for creation. 
+
+for every tech entrepreneur, there's two types of problems that we are constantly having to solve: the macro problem and the micro problem. for example, the current app that I've been playing around with is a housekeeping tool for hotels (macro issue), but on the micro side, i'm solving problems in my code and implementation (syntax errors or my inability to implement binary trees correctly), and i think i personally enjoy solving the macro issue a lot more than the micro issue. 
+
+that brings me back to yc. yc really emphasizes the importance of technical founders because these are the people who are solving both the macro and micro issues in their startup. now don't get me wrong, i'm majoring in cs and math so technically im technical. but there's a whole different breed of technical when we talk about computer scientists who LOVE coding just to code. (i love coding to solve problems)
+
+and in a sense, this is what entrepreneurship means to me. let's say that coding was never invented and instead of tech saas startups, our only medium to solving problems was manual labor: instead of google having access to the internet (internet was never invented in this world), we just had a bunch of really smart people answer our questions. i think for a decently sized population of people, this change would make them not want to pursue entrepreneurship anymore (they love CODING to code), but for me, it doesn't matter if it's manual labor, coding, math, chemistry equations -- i will always love entrepreneurship, no matter the medium, because i love solving problems.
+`
   },
   'love': {
     title: "to love is to sacrifice.",

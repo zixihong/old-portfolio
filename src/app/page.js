@@ -23,7 +23,7 @@ export default function Home() {
             <h1><TypingText/></h1><br />
             <p>
             I'm a student at <span style={{color: 'blue'}}><b>UC Santa Barbara</b></span> studying <span style={{color: 'blue'}}><b>CS + Math, </b></span> 
-            and I love working on projects involving <b>Machine and Deep Learning, Computer Vision, and Predictive Modeling. </b> At my core, I value curiosity, creativity, uniqueness, and originality, and I'm a problem-solver at heart who believes that they can <b>Change The World. </b>
+            and I love working on projects involving <b>Machine and Deep Learning, Computer Vision, and Predictive Modeling. </b> At my core, I value curiosity, creativity, uniqueness, and originality, and I'm a problem-solver at heart who wants to <b>Build The Future. </b>
             Explore some of my personal and research projects below! Or check out my {' '}
             <Link href="/pure-simple-html" style={{color: 'yellow', textDecoration: 'underline', fontWeight: 'bold'}}> Blog :) </Link>
             </p><br />

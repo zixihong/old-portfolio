@@ -50,7 +50,7 @@ export default function Writing() {
       slug: "openai"
     },
     {
-      title: "yc.",
+      title: "yc as a reflection.",
       date: "10/2024",
       slug: "yc"
     },
