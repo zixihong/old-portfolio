@@ -5,6 +5,46 @@ import Link from 'next/link';
 export default function Writing() {
   const blogs = [
     {
+      title: "love, sacrifice, and my criticism of the work-life balance.",
+      date: "12/2024",
+      slug: "love"
+    },
+    {
+      title: "yc as a reflection.",
+      date: "11/2024",
+      slug: "yc"
+    },
+    {
+      title: "the ethical tangent behind openai.",
+      date: "10/2024",
+      slug: "openai"
+    },
+    {
+      title: "say yes because the fear of missing out is too great.",
+      date: "10/2024",
+      slug: "yes"
+    },
+    {
+      title: "delusion as a visionary.",
+      date: "10/2024",
+      slug: "delusion"
+    },
+    {
+      title: "solitude and growth.",
+      date: "09/2024",
+      slug: "solitude"
+    },
+    {
+      title: "summer's end.",
+      date: "07/2024",
+      slug: "summer"
+    },
+    {
+      title: "regret: how much we want it > how much effort we put in.",
+      date: "04/2024",
+      slug: "regret"
+    },
+    {
       title: "uniqueness. and why u shouldn't care what others think.",
       date: "03/2024",
       slug: "uniqueness"
@@ -13,48 +53,8 @@ export default function Writing() {
       title: "perception. and why u should care what others think.",
       date: "03/2024",
       slug: "perception"
-    },
-    {
-      title: "regret: how much we want it > how much effort we put in.",
-      date: "04/2024",
-      slug: "regret"
-    },
-    {
-      title: "summer's end.",
-      date: "07/2024",
-      slug: "summer"
-    },
-    {
-      title: "solitude and growth.",
-      date: "09/2024",
-      slug: "solitude"
-    },
-    {
-      title: "delusion as a visionary.",
-      date: "10/2024",
-      slug: "delusion"
-    },
-    {
-      title: "say yes because the fear of missing out is too great.",
-      date: "10/2024",
-      slug: "yes"
-    },
-    {
-      title: "the ethical tangent behind openai.",
-      date: "10/2024",
-      slug: "openai"
-    },
-    {
-      title: "yc as a reflection.",
-      date: "11/2024",
-      slug: "yc"
-    },
-    {
-      title: "love, sacrifice, and my criticism of the work-life balance.",
-      date: "12/2024",
-      slug: "love"
-    },
-  ];
+    }
+];
 
   return (
     <div className="page-wrapper">

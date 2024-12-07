@@ -116,7 +116,7 @@ back in 2015, altman, then president of yc, sends musk an email stating that he 
 
 one that is supposed to be a polar opposite to google.
 
-yet, today, altman is the same person trying to abolish openai's nonprofit organization status in replacement for a for-profit status, so on a deeper level, is this move preplanned or is it just a change of heart. honestly, i can see it both ways. after watching countless yc interviews, i've gathered that altman is an incredibly planned person, who, if he wanted to, could def pull this off. on the other hand, no one could've predicted this ai boom, and maybe altman was just in the perfect position to capitalize on this trend. 
+yet, today, altman is the same person trying to abolish openai's nonprofit organization status in favor of a for-profit status. so on a deeper level, is this move preplanned or is it just a change of heart? honestly, i can see it both ways. after watching countless yc interviews, i've gathered that altman is an incredibly planned person, who, if he wanted to, could def pull this off. on the other hand, no one could've predicted this ai boom, and maybe altman was just in the perfect position to capitalize on this trend. 
 
 but the bigger question is whether or not openai's current plans are "ethical", and how do we even describe what ethical means in such a conjuring time. this quarter, i'm currently taking an open-source cs class that discusses the question of ethics in artificial intelligence. one particular message that really stuck around with me was about on the ethics of using information online to train these huge llms. 
 
