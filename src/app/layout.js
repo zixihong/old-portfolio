@@ -2,7 +2,7 @@ import './global.css'
 
 export const metadata = {
   title: "BH",
-  description: 'Research Projects Portfolio'
+  description: 'Everything & More'
 }
 
 export default function RootLayout({ children }) {
