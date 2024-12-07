@@ -20,11 +20,6 @@ export default function Writing() {
       slug: "regret"
     },
     {
-      title: "a psychoanalysis of cowboyhongs, alter egos, and graduations.",
-      date: "05/2024",
-      slug: "cowboyhong"
-    },
-    {
       title: "summer's end.",
       date: "07/2024",
       slug: "summer"
@@ -51,12 +46,12 @@ export default function Writing() {
     },
     {
       title: "yc as a reflection.",
-      date: "10/2024",
+      date: "11/2024",
       slug: "yc"
     },
     {
-      title: "to love is to sacrifice.",
-      date: "11/2024",
+      title: "love, sacrifice, and my criticism of the work-life balance.",
+      date: "12/2024",
       slug: "love"
     },
   ];

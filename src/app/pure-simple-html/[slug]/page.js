@@ -50,11 +50,6 @@ we regret because we care. we wanted those results so badly, and yet, our effort
 
 i can't go back and change the past so that i can work harder in zhong's class and get into all the dream colleges i wanted to get into, but neither do i want to. i already know that this feeling of regret is going to change me so much, and in the long run, i WILL become a better person as a result of this no matter where i end up going to college.`
   },
-  'cowboyhong':{
-    title: "a psychoanalysis of cowboyhongs, alter egos, and graduations.",
-    date: "05/2024",
-    content: ``
-  },
   'summer': {
     title: "summer's end.",
     date: "07/2024",
@@ -132,7 +127,7 @@ because we can all agree that openai is NOT open (even if they try so hard to sa
   },
   'yc': {
     title: "yc as a reflection.",
-    date: "10/2024",
+    date: "11/2024",
     content: `the y.
 
 no, not the ymca -- the y combinator. 
@@ -151,9 +146,23 @@ and in a sense, this is what entrepreneurship means to me. let's say that coding
 `
   },
   'love': {
-    title: "to love is to sacrifice.",
-    date: "11/2024",
-    content: ``
+    title: "love, sacrifice, and my criticism of the work-life balance.",
+    date: "12/2024",
+    content: `the work-life balance is stupid.
+
+this idea that we should split our time and energy between working and living seems so pessimistic because it forces us to associate working with negativity and living with positivity as a sort of balance; it's why friday evenings are heaven and sunday afternoons are hell.
+
+instead, we should view work as an extension of living. love what you do and live with it every day. whether that's studying for your final exams or clocking in another day at the office; view every opportunity as a place to grow. when i stopped associating work with negativity and living with positivity, i saw my productivity increase in every aspect of my life. when it came to studying for exams, i consistently reminded myself that every piece of information i took in was going to be a part of me forever. if it was a cs or math class, i reiterated that by conquering this information, i would become such a better programmer or builder in the future. if the class wasn't a major class, i reminded myself that this was just a test of my discipline. during my workouts, rather than focusing on the strain or time spent, i reaffirm myself that every rep directly correlates to how much stronger i'll be. when attending meetings, rather than seeing them as obligations, i view them as opportunities to understand different perspectives and build meaningful connections.
+
+by associating every "difficult" task i had to conquer in front of me with a positive reinforcement rather than just "work", i began to truly love what i do. 
+
+and i think truly loving what you is what makes you productive. 
+
+i recently had a discussion with a friend who said that how much we love someone is defined by how much we are willing to sacrifice for them, and this really stuck with me because it helped me understand the psychology behind the work-life balance and productivity. i consider love and sacrifice to be inverses; you sacrifice some things for other things we love: sacrifice = negative and love = positive. this ties into the concept of the work-life balance because society molds us to think that we have to sacrifice the things we love for work, and i think this mindset is what's stopping us from being maximally productive.
+
+if we always think of work as this barrier to the things we love, then we will never love the work that we do because work = sacrifice = negative and everything else is the just the inverse of it, and if we will never love what we do, then we will never achieve 100% productivity. 
+
+**you don't have to achieve 100% productivity every time you work; no one does. this blog was just a way for me to provide a pseudo-mathematical approach to the idea that the amount of love we have for the work we're doing has a positive correlation to the productivity of that work we are doing.`
   },
 };
 
