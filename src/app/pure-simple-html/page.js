@@ -25,7 +25,7 @@ export default function Writing() {
       slug: "yes"
     },
     {
-      title: "delusion as a visionary.",
+      title: "delusional visionaries.",
       date: "10/2024",
       slug: "delusion"
     },

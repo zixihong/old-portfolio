@@ -50,7 +50,7 @@ export default function Home() {
             <b>© Bryan Hong.</b> Full website source code is available on{' '}
             <a 
               href="https://github.com/zixihong" 
-              target="_blank" 
+              target="blank" 
               rel="noopener noreferrer"
             >
               GitHub

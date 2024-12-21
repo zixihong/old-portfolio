@@ -59,9 +59,9 @@ here are the lessons i learned from this summer:
 
 1. communication is so important for friendship. it's more than just talking; it's understanding.
 
-2. our actions are a reflection of our thoughts. the words we say, the things we do, are all deeply reflective of, to some level, our fundamental thinking. this fundamental thinking is unique to us all, and no matter how hard we try to deny it or push it away. it always appears in the form of our actions.
+2. our actions are a reflection of our thoughts. the words we say, the things we do, are all deeply reflective of, to some level, our fundamental thinking. this fundamental thinking is unique to us all, and no matter how hard we try to deny it or push it away, it always appears in the form of our actions.
 
-3. cherish the moment. i think i spent so much time this summer, esp the end, worrying about the last time i'll see my friends again before they leave for college or wtv, and i felt like towards the end, i was always counting down days before they left. i was so worried about them leaving that i sometimes forgot to enjoy the time that we did spend together.`
+3. cherish the moment. i think i spent so much time this summer, worrying about the last time i'll see my friends again before they leave for college or wtv, and i felt like, towards the end, i was always counting down days before they left. i was so worried about them leaving that i sometimes forgot to enjoy the time that we did spend together.`
   },
   'solitude': {
     title: "solitude and growth.",
@@ -77,7 +77,7 @@ for me at least, this contextualizing only occurs when i'm alone. now, i'm def n
 so really, it's a balance between watering the relationships with your friends and watering the plant of your own personal growth. and finding this balance is what makes us, us.`
   },
   'delusion':{
-    title: "delusion as a visionary.",
+    title: "delusional visionaries.",
       date: "10/2024",
       content: `visionaries don't see further or wider than anyone else; they just see what others don't. and in a sense, this is what being delusional means.
 
