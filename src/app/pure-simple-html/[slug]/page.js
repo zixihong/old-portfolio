@@ -164,6 +164,25 @@ if we always think of work as this barrier to the things we love, then we will n
 
 **you don't have to achieve 100% productivity every time you work; no one does. this blog was just a way for me to provide a pseudo-mathematical approach to the idea that the amount of love we have for the work we're doing has a positive correlation to the productivity of that work we are doing.`
   },
+  'politics': {
+    title: "not to get political, but...",
+    date: "12/2024",
+    content: `you can never be wrong in politics. 
+
+recently, a couple friends and i had a discussion about this topic, so i wanted to approach this with a philosophical point-of-view on my blog. 
+
+i can disagree with your political opinions or your logical foundation could be flawed, but there is no right or wrong in politics. at the most fundamental core, politics are simply a reflection of the lessons we've learned, mistakes we've made, and paths we've taken. when we argue about politics, we're not just debating policies and statistics -- we're arguing about our lived experiences down to our philosophical core. 
+
+recently, healthcare policy has been at the center of debate, and at first glance, there seems to be a clear moral imperative: the best healthcare policy is one that prevents suffering and saves the most lives. a utilitarian framework suggests that the policy maximizing the greatest good for the greatest number is morally correct. but that prompts an interesting question: why is a utilitarian framework more favored than others?
+
+before i continue, i want to preface that i'm not going to publicly take sides in this debate on my blog. i do fundamentally align myself with a philosophical framework, but the purpose of this entire blog is to point out that whatever framework i align myself with is NOT the OBJECTIVELY correct answer because there ISN'T an objectively right or wrong framework.
+
+to return back to question of utilitarian superiority, other ethical frameworks also exist in this context. a libertarian perspective emphasizing individual rights and minimal government intervention might argue that forcing some to pay for others' healthcare violates fundamental principles of personal autonomy, and deontological ethics would debate about whether healthcare is a fundamental right or a personal responsibility. each framework provides a unique lens through which to view the same issue, and each person's lived experiences naturally pull them toward certain philosophical approaches. these lived experiences include anything from the books we've read and the people we've met to to the news we've seen online and the places we've been.
+
+and if political opinions = a reflection of our lived experiences, then on the macroscopic level, no person's political beliefs are any more right or wrong compared to anyone else's. that means that it's imperative to recognize that your OWN political views are not objective truths but subjective opinions.
+
+before i close out this blog, i want to reiterate that while i think a person can never be fundamentally incorrect about politics, their logic, supported by evidence and analysis, could be flawed. that's why it's so important that we examine all of our political beliefs from a larger perspective and critically analyze the "why" behind our thoughts.`
+  },
 };
 
 export default function BlogPost() {

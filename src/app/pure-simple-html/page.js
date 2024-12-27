@@ -5,6 +5,11 @@ import Link from 'next/link';
 export default function Writing() {
   const blogs = [
     {
+      title: "not to get political, but...",
+      date: "12/2024",
+      slug: "politics"
+    },
+    {
       title: "love, sacrifice, and my criticism of the work-life balance.",
       date: "12/2024",
       slug: "love"
