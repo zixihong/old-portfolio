@@ -1,3 +1,5 @@
 {
+  "/pure-simple-html/page": "app/pure-simple-html/page.js",
+  "/page": "app/page.js",
   "/pure-simple-html/[slug]/page": "app/pure-simple-html/[slug]/page.js"
 }

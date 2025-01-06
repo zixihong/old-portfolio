@@ -12,7 +12,7 @@ export default function Home() {
       <section id="introduction">
         <div className="container">
           <img 
-            src="IMG_1149 (1).jpg" 
+            src="IMG_8267 (2).jpg" 
             alt="Bryan Hong" 
             width="400" 
             height="400"
