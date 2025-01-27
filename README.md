@@ -1,1 +1,1 @@
-my person portfolio
+my old portfolio. made using react and next.
